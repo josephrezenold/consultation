@@ -1,4 +1,13 @@
+html, body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+
+
 body {
+  over-flow-x:hidden;
   font-family: "Poppins", sans-serif;
   color: #000000;
   background-color: #ffffff;
